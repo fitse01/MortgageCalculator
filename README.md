@@ -17,14 +17,14 @@ To use the program, follow these steps:
 
 This program requires Java 8 or later to run.
 
-#Contributing
+## Contributing
 
-```If you find any issues or have suggestions for improvement, feel free to submit a pull request or open an issue on the project's GitHub page.```
+If you find any issues or have suggestions for improvement, feel free to submit a pull request or open an issue on the project's GitHub page.
 
-#License
+## License
 
-```This program is licensed under the MIT License. See the LICENSE file for details.```
+This program is licensed under the MIT License. See the LICENSE file for details.
 
-#Acknowledgements
+## Acknowledgements
 
-```This program was created by [Fitsum Tafese]. Special thanks to [AI sage poe] to assist me by providing well organized information ```
+This program was created by [Fitsum Tafese]. Special thanks to [AI sage poe] to assist me by providing well organized information 
