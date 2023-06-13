@@ -12,9 +12,10 @@ To use the program, follow these steps:
 5. Follow the instructions on the screen to enter the necessary information.
 6. The program will then calculate and display the monthly mortgage payment.
 ```
-#Requirements
+## Requirements
 
-```This program requires Java 8 or later to run.```
+
+This program requires Java 8 or later to run.
 
 #Contributing
 
