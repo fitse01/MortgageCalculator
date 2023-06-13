@@ -1,15 +1,17 @@
 # MortgageCalculator
 This is a simple Java program that calculates the monthly mortgage payment for a given principal, interest rate, and loan term.
+```
+## How to Use
 
-#How to Use
 To use the program, follow these steps:
 
-1.Clone the repository to your local machine.
-2.Open a terminal or command prompt and navigate to the project directory.
-3.Compile the program by running the following command: javac Main.java
-4.Start the program by running the following command: java Main
-5.Follow the instructions on the screen to enter the necessary information.
-6.The program will then calculate and display the monthly mortgage payment.
+1. Clone the repository to your local machine.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Compile the program by running the following command: `javac Main.java`
+4. Start the program by running the following command: `java Main`
+5. Follow the instructions on the screen to enter the necessary information.
+6. The program will then calculate and display the monthly mortgage payment.
+```
 #Requirements
 This program requires Java 8 or later to run.
 
